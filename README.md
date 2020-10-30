@@ -1,6 +1,6 @@
 # Deanonymising the Kucoin hacker
 
-This repository contains the data and code I used for this post identifying the
+This repository contains the data and code I used for [this post](https://docs.google.com/document/d/e/2PACX-1vR81n3zxgbgNSibvXeFltSsdOVrvPyJKMNTGXIF57ut3sGQOh9k1yLzF0Mfju0Am8z0mvNC1IOHXQm8/pub) identifying the
 September 2020 Kucoin hacker's withdrawal addresses from Tornado Cash.
 
 I used Google BigQuery to obtain the data in `data/TC\ transactions.csv`. The
